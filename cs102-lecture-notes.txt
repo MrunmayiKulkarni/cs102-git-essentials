@@ -1,0 +1,6 @@
+Git commands with short description:
+git status:To see the current status of the repository.
+git add . :To stage (add) to the repository.
+git commit -m "type a message to name the changes" :To commit changes. That means the current state of the files/folders will be stored in the git repository permanently.
+git push origin main : Once the changes are committed it can be pushed to the server repository
+git branch --show-current : To know the current branch
