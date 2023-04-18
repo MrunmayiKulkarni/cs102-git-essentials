@@ -4,3 +4,5 @@ git add . :To stage (add) to the repository.
 git commit -m "type a message to name the changes" :To commit changes. That means the current state of the files/folders will be stored in the git repository permanently.
 git push origin main : Once the changes are committed it can be pushed to the server repository
 git branch --show-current : To know the current branch
+Summary of what I have learned in today's lecture:
+In today's lecture we learned how to edit file and commit changes using git interface. We also learned some things about markdown and html. We viewed sources of some webpages and saw how they are written in html and markdown.
